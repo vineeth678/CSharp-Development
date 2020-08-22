@@ -1,4 +1,4 @@
-# Classes1
-Defined Classes Deriving and Method Access
+# CSharp Development
 
-As an Initial developer, I'm Creating these to make me more committed to every concept in C#.
+
+This Repository is for someone who's trying to learn C# in conceptwise and with Example.
