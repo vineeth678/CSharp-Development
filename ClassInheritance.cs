@@ -15,6 +15,7 @@ namespace Classes1
         public string Company;
         public string Contact;
         public string City;
+        //Checking the changes using the demo branch
 
         // Defining a Constructor with all the fields as Parameters
         public Class1(int Age, string Name, string Company, string Contact, string City)
@@ -25,7 +26,15 @@ namespace Classes1
             this.Contact = Contact;
             this.City = City;
         }
-
+        public Class1(int Age, string Name, string Company, string Contact, string City)
+        {
+            this.Age = Age;
+            this.Name = Name;
+            this.Company = Company;
+            this.Contact = Contact;
+            this.City = City;
+        }
+        Console.writeLine("Hello world");
         //Defining a constructor with only one Field as a Parameter.
         public Class1(int Age)
         {
